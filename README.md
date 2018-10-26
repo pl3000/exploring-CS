@@ -1,2 +1,2 @@
-# exploring-CS
+# exploring CS
 my GitHub website
